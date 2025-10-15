@@ -1,6 +1,9 @@
 # Beyond sd-wan 比扬云SD-WAN组网
 ## 非官方库! 非官方库! 非官方库!
 
+# 组网教程文档
+https://doc.beyondnetwork.cn/#/
+
 # 客户端下载地址
 ## MacOS 11+
 https://beyondtunnel.oss-cn-shenzhen.aliyuncs.com/tunnel/updates/mac/intel/beyond_tunnel-1.0.10-x64.dmg
