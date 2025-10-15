@@ -26,4 +26,9 @@ https://beyondtunnel.oss-cn-shenzhen.aliyuncs.com/edge/1.0.8/edge_linux_arm
 https://beyondtunnel.oss-cn-shenzhen.aliyuncs.com/edge/1.0.8/edge_linux_arm32
 ### mips
 https://beyondtunnel.oss-cn-shenzhen.aliyuncs.com/edge/1.0.8/edge_linux_mips
+## V1.0.8 docker镜像源地址
+beyondnetwork-registry.cn-shenzhen.cr.aliyuncs.com/beyondnetwork/edge
+
+Tags: linux_armv7_latest linux_arm64_latest linux_amd64_latest
+
 
