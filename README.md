@@ -1,5 +1,7 @@
 # Beyond sd-wan 比扬云SD-WAN组网
-## 非官方库! 非官方库! 非官方库!
+## 此仓库非官方库! 此仓库非官方库! 此仓库非官方库!
+
+# 账户注册地址：[点击免费注册](https://dash.beyondnetwork.cn/register?recommend_code=r3hj2wajq27j)
 
 # 组网教程文档
 https://doc.beyondnetwork.cn/#/
